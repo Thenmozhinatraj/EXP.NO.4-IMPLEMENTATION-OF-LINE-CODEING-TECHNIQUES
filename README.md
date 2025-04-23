@@ -52,6 +52,5 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 ![WhatsApp Image 2025-04-23 at 22 01 52_e718a9ce](https://github.com/user-attachments/assets/d2f3464c-2501-44e5-955e-68d18300036d)
 
 
-
 ## RESULT 
 Thus the line coding techniques were analyzed and observed and the graph is plotted. 
