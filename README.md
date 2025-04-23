@@ -19,8 +19,10 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 10.	Keep the switch SW2 for NRZ-S to ON position for decoding logic as shown in theblock diagram. 
 11.	Observe the coded and decoded signal on the oscilloscope. 
 12.	Use RESET switch for clear data observation if necessary.
-13. Unipolar to Bipolar/Bipolar to Unipolar: 
+13. Unipolar to Bipolar/Bipolar to Unipolar:
+    
    a. connect NRZ-L signal from DCL-05 to the input post IN Unipolar to Bipolarand Observe the Bipolar output at the post OUT.
+   
    b.Then connect bipolar output signal to the input post IN of Bipolar to Unipolarand observe Unipolar out at post OUT. 
  
 
