@@ -46,7 +46,8 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 ![image](https://github.com/user-attachments/assets/471c76c3-603f-432b-9b65-1ad080a1c947)
 
 ## TABLE
-![WhatsApp Image 2025-04-23 at 22 01 52_43411ba2](https://github.com/user-attachments/assets/f94e1638-d17c-4eeb-a5c6-2e40d8eadae3)
+![WhatsApp Image 2025-04-23 at 22 20 03_761e4df8](https://github.com/user-attachments/assets/645824c4-2113-47ce-96fb-717d0275f4e4)
+
 
 ## OUTPUT GRAPHS
 ![IMG-20250423-WA0047 1](https://github.com/user-attachments/assets/89515b2c-08d7-465b-b6b2-4c82da35e537)
