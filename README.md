@@ -1,5 +1,4 @@
 # EXP.NO.4-IMPLEMENTATION-OF-LINE-CODEING-TECHNIQUES
-
 3.Implementation of Line Codeing Techniques 
 ## AIM    
  The objective of this experiment is to study the Line coding techniques using the trainer kit. 
@@ -19,7 +18,7 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 11.	Observe the coded and decoded signal on the oscilloscope. 
 12.	Use RESET switch for clear data observation if necessary.	
 13. Unipolar to Bipolar/Bipolar to Unipolar:
-
+    
     a. connect NRZ-L signal from DCL-05 to the input post IN Unipolar to Bipolarand Observe the Bipolar output at the post OUT.
     
     b. Then connect bipolar output signal to the input post IN of Bipolar to Unipolarand observe Unipolar out at post OUT.
